@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            "Paul Cline"
 tagline:          ""
-url:              http://paulcline.github.io
+url:              http://paulcline.github.io/
 paginate:         1
 baseurl:          /
 author:
