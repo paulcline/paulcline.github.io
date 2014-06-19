@@ -1,0 +1,17 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Paul Cline"
+tagline:          
+url:              http://paulcline.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Paul Cline
+  url:            https://twitter.com/paulandrewcline
+  email:          paulcline@gmail.com
