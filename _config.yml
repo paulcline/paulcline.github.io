@@ -10,7 +10,7 @@ title:            "Paul Cline"
 tagline:          ""
 url:              http://paulcline.github.io/
 paginate:         1
-baseurl:          /
+baseurl:          
 author:
   name:           Paul Cline
   url:            https://twitter.com/paulandrewcline
